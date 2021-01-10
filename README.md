@@ -12,24 +12,23 @@ Welcome to the Personal User Manual Template! Simply click "Use this template" a
 4. Go to Settings and scroll down to Github Pages then change the source to `master`. You can also set a new theme here.
 5. Visit `https://<your-github-username>.github.io/personal-user-manual` to see your work!
 
-## About Me
+### About Me
 
 
 <details>
-    <summary>Tips</summary>
-Optional Section: You may want to fill out this as a section to help introduce yourself to new joiners or to people from outside your team. Feel free to keep it light and don't worry about going into much detail about yourself in a professional sense, as that can be covered by later sections. Some suggested points might be where you grew up, what your hobbies are or a fun fact about yourself.
+Transplant, living in St. Louis suburbs for 20+ years. I work at Environmental Science Research Institute (ESRI) - Professional Services team, managing engagements and projects. Organizing, planning, managing, those are my [Ordinary Superpowers](https://www.asuperpoweredlife.com/). My Spotify 2020 year-end review tells me I love listening to Marketplace with Kai Ryssdal, How I Built This with Guy Raz, Planet Money, and multitudes of National Public Radio (NPR) programming. Lately, I am exploring businesses that embraces [Stakeholder Capitalism](https://www.instituteforcorporatetransformation.com/podcast)   
 </details>
 
 ## How to Contact Me
 
-
 <details>
-    <summary>Tips</summary>
-Essential Section: You might want to think about some caveats here. Perhaps Slack is fine for a quick question but for longer communication you'd prefer to speak in person.
+- MS Teams works for quick answers, and email for more detail responses  
+- I like to have background and context, so please @mention me within the relevant channel, email chain, and especially Salesforce/Kimble Chatter
+- Best way to reach me outside of core office hour is to text my mobile 314-482-6693
+- General core working hours are 9-6pm central time. It is generally easier for me to work late than to start early. 
 </details>
 
 ## Preferred Working Style
-
 
 <details>
     <summary>Tips</summary>
@@ -88,3 +87,6 @@ Optional Section: There are some sections that are deliberately omitted from thi
 - "How to interpret my calendar" - If you're someone with wall to wall meetings every day it might be difficult for colleagues to find a good time to speak with you. If this is the case, then this section might be helpful to outline when you typically could make time for them.
 - "What you can expect from me" - Another one that might be useful for line managers, career coaches and mentors more than ICs. You may want to use this to set expectations around how often you'll be scheduling catchups, how you share feedback and what sort of support you can offer.
 </details>
+
+###### Acknowledgement:
+Template from Camin McCluskey: https://github.com/camin-mccluskey/Personal-User-Manual-Template

@@ -1,22 +1,23 @@
-# Personal User Manual
+## Angeline Soon Personal User Manual - Intro
 Being relatively new to the organization, I hope sharing my Personal User Manual will help us work better together.  
-See this Medium article about [Personal User Manual](https://medium.com/better-programming/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) 
-I would love it if want to create your personal user manual. If you do please share it with me.  
-Scroll to bottom for link to the Github template.  
+- See this Medium article about [Personal User Manual](https://medium.com/better-programming/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) 
+- I would love it if want to create your personal user manual. If you do please share it with me.  
+- Note: Scroll to bottom for link to the Github template.  
 
 ### About Me
 
-Originally born and raised in Kuala Lumpur, Malaysia, I've been living in St. Louis suburbs for 20+ years. I'm on the Environmental Science Research Institute (ESRI) - Professional Services team, managing engagements and projects. Organizing, planning, managing, those are my [Ordinary Superpowers](https://www.asuperpoweredlife.com/).  
-My Spotify 2020 year-end review tells me I love listening to Marketplace with Kai Ryssdal, How I Built This with Guy Raz, Planet Money, and multitudes of National Public Radio (NPR) programming.  
-Lately, I am exploring businesses that embraces [Stakeholder Capitalism](https://www.instituteforcorporatetransformation.com/podcast)   
+- Originally born and raised in Kuala Lumpur, Malaysia, I've been living in St. Louis suburbs for 20+ years. 
+- I'm on the Environmental Science Research Institute (ESRI) - Professional Services team, managing engagements and projects. Organizing, planning, managing, those are my [Ordinary Superpowers](https://www.asuperpoweredlife.com/).  
+- My Spotify 2020 year-end review tells me I love listening to Marketplace with Kai Ryssdal, How I Built This with Guy Raz, Planet Money, and multitudes of National Public Radio (NPR) programming.  
+- Lately, I am exploring businesses that embraces [Stakeholder Capitalism](https://www.instituteforcorporatetransformation.com/podcast)   
 
-## How to Contact Me
+### How to Contact Me
 - MS Teams works for quick answers, and email for detailed responses  
 - I like to have background and context, so please @mention me within the relevant channel, email chain, and especially Salesforce/Kimble Chatter
 - Best way to reach me outside of core office hour is to text my mobile 314-482-6693
 - General core working hours are 9-6pm central time. It is generally easier for me to work later than to start earlier, as early mornings are me time to workout and meditate.  
 
-## Preferred Working Style
+### Preferred Working Style
 - Like transparency and stay well informed. Intentional obsfucation is a pet-peeve of mine. 
 - Prefer pairing or small team collaboration rather than large meetings. 
 - Tend to listen first to gather information, before responding. If I am quiet and staring into space, I am not distracted or ignoring you. I am merely thinking before responding. 

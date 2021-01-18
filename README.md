@@ -53,5 +53,5 @@ Strengthfinder Themes: _Relator | Arranger | Input | Learner | Responsibility_
 - Be blindsided in front of coworkers and making me look dumb.
 - Using "Americana 401" sayings. I didn't grow up here so I don't always get the references. 
 
-###### Acknowledgement:
+###### Acknowledgement:  
 This template is courtesy of Camin McCluskey's [Personal User Manual Template](https://github.com/camin-mccluskey/Personal-User-Manual-Template)

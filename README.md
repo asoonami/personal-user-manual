@@ -1,15 +1,15 @@
-## Angeline Soon Personal User Manual - Intro
-Being relatively new to the organization, I hope sharing my Personal User Manual will help us work better together.  
-- See this Medium article about [Personal User Manual](https://medium.com/better-programming/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) 
-- I would love it if want to create your personal user manual. If you do please share it with me.  
-- Note: Scroll to bottom for link to the Github template.  
+## Angeline Soon - Personal User Manual
+
+__What is a Personal User Manual?__ It is a guide to help you understand me, with the goal of working better together.  
+- Read more about [Personal User Manual](https://medium.com/better-programming/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) on Medium.
+- If you like this concept and create your personal user manual, please share it with me. To get started, I have a template linked at the bottom of this page. 
 
 ### About Me
 DISC: _SCI_   
 Strengthfinder Themes: _Relator | Arranger | Input | Learner | Responsibility_
 
 - Originally born and raised in Kuala Lumpur, Malaysia, I've been living in St. Louis suburbs for 20+ years. 
-- I'm on ESRI's - Professional Services - Midwest Regional Office, managing engagements and projects. Organizing, planning, managing, those are my [Ordinary Superpowers](https://www.asuperpoweredlife.com/).  
+- I'm on ESRI's - Professional Services - Midwest Regional Office, managing engagements & projects. Organizing, planning, managing, those are my [Ordinary Superpowers](https://www.asuperpoweredlife.com/).  
 - Fav podcasts: Marketplace with Kai Ryssdal, How I Built This with Guy Raz, Planet Money, and multitudes of National Public Radio (NPR) programming.  
 - Lately, I am exploring businesses that embraces [Stakeholder Capitalism](https://www.instituteforcorporatetransformation.com/podcast)
 
@@ -20,10 +20,10 @@ Strengthfinder Themes: _Relator | Arranger | Input | Learner | Responsibility_
 - General core working hours are 9-6pm central time. It is generally easier for me to work later than to start earlier, as early mornings are me time to workout and meditate.  
 
 ### Preferred Working Style
-- Like transparency and stay well informed. Intentional obsfucation is a pet-peeve of mine. 
+- Like transparency and stay well informed. 
 - Prefer pairing or small team collaboration rather than large meetings. 
-- Tend to listen first to gather information, before responding. If I am quiet and staring into space, I am not distracted or ignoring you. I am merely thinking before responding. 
-- When there isn't any group concensus, I will generally make a decision to move us forward. If you think a different decision is needed, I will not be offended if you bring it up either within the group or to me directly for discussion. 
+- Tend to listen first to gather information, before responding. If I am quiet and staring into space, I am not ignoring you. I am merely thinking before responding. 
+- When there isn't any group concensus, I will generally make a decision to move us forward. If you think a different decision is needed, I will not be offended if you bring it up.
 - Visual communicator, and am bias towards diagrams, workflows, and screen sharing during meetings. 
 - I am trying to be better at speaking up in larger group settings, and get over the fear of being judged.
 
@@ -36,23 +36,22 @@ Strengthfinder Themes: _Relator | Arranger | Input | Learner | Responsibility_
 
 ## What Demotivates Me
 - Lack of autonomy to operate and make day-to-day decisions.
-- Don't beat around the busy. I appreciate clear and straightforward communication, especially on tough topics.
+- I appreciate clear and straightforward communication, especially on tough topics and feedback. No need to beat around the bush. 
 - Saying one thing and doing another. 
-- Lack of planning on your part does not constitute to emergency on my part. If in such situation, I respond well to request-for-collaboration.
+- Lack of planning on your part does not constitute to emergency on my part, but if you need help, asking politely and I will be happy to collaborate.
 
 ## My Values (and what I value in others)
 - Empathy and the ability to see another point-of-view
 - Growth mindset, and room to make mistakes and learnings that come with that
-- Help others to help themselves 
+- Helping others help themselves 
 
 ## My Blind Spots
 - My dry sense of humor can feel snarky. You can say to me "that sounded snarky or disrespectful" and I will know I crossed the line. 
 - I can come across as blunt when I am focused on finding a solution to a problem. You can say to me "I don't think that's your intent but it hurts my feeling". 
-- Facilitating convos in a way that is win-win all around. 
 
 ## My Pet Peeves
 - Invites for early AM meeting tomorrow sent after COB today.
-- Be blindsided in front coworkers and making me look dumb
+- Be blindsided in front of coworkers and making me look dumb.
 - Using what I called "Americana 401" sayings. I didn't grow up here so I don't always get the references. 
 
 ###### Acknowledgement:

@@ -5,11 +5,13 @@ Being relatively new to the organization, I hope sharing my Personal User Manual
 - Note: Scroll to bottom for link to the Github template.  
 
 ### About Me
+DISC: _SCI_   
+Strengthfinder Themes: _Relator | Arranger | Input | Learner | Responsibility_
 
 - Originally born and raised in Kuala Lumpur, Malaysia, I've been living in St. Louis suburbs for 20+ years. 
-- I'm on the Environmental Science Research Institute (ESRI) - Professional Services team, managing engagements and projects. Organizing, planning, managing, those are my [Ordinary Superpowers](https://www.asuperpoweredlife.com/).  
-- My Spotify 2020 year-end review tells me I love listening to Marketplace with Kai Ryssdal, How I Built This with Guy Raz, Planet Money, and multitudes of National Public Radio (NPR) programming.  
-- Lately, I am exploring businesses that embraces [Stakeholder Capitalism](https://www.instituteforcorporatetransformation.com/podcast)   
+- I'm on ESRI's - Professional Services - Midwest Regional Office, managing engagements and projects. Organizing, planning, managing, those are my [Ordinary Superpowers](https://www.asuperpoweredlife.com/).  
+- Fav podcasts: Marketplace with Kai Ryssdal, How I Built This with Guy Raz, Planet Money, and multitudes of National Public Radio (NPR) programming.  
+- Lately, I am exploring businesses that embraces [Stakeholder Capitalism](https://www.instituteforcorporatetransformation.com/podcast)
 
 ### How to Contact Me
 - MS Teams works for quick answers, and email for detailed responses  
@@ -41,7 +43,7 @@ Being relatively new to the organization, I hope sharing my Personal User Manual
 ## My Values (and what I value in others)
 - Empathy and the ability to see another point-of-view
 - Growth mindset, and room to make mistakes and learnings that come with that
-- Enabling others to be successful
+- Help others to help themselves 
 
 ## My Blind Spots
 - My dry sense of humor can feel snarky. You can say to me "that sounded snarky or disrespectful" and I will know I crossed the line. 

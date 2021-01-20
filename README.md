@@ -5,7 +5,7 @@ __What is a Personal User Manual?__ It is a guide to help you understand me, wit
 - If you like this concept and create your personal user manual, please share it with me. To get started, I have a template linked at the bottom of this page. 
 
 ### About Me
-DISC: <span color:#FF0000> ⚫</span> ⚫⚫_SCI Steadiness Conscientiousness Influence_   
+DISC: _SCI Steadiness Conscientiousness Influence_   
 Strengthfinder Themes: _Relator | Arranger | Input | Learner | Responsibility_
 
 - Originally born and raised in Kuala Lumpur, Malaysia, I've been living in St. Louis suburbs for 20+ years. 

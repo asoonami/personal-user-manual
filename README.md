@@ -45,6 +45,7 @@ Strengthfinder Themes: _Relator | Arranger | Input | Learner | Responsibility_
 - Helping others help themselves 
 
 ## My Blind Spots
+- Taking over without meaning to. 
 - My dry sense of humor can feel snarky. You can say to me "that sounded snarky or disrespectful" and I will know I crossed the line. 
 - I come across blunt when I am laser-focused on problem-solving. You can say to me "I don't think that's your intent but it hurts my feeling". 
 

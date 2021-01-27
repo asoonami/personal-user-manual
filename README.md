@@ -1,6 +1,6 @@
 ## Angeline Soon - Personal User Manual
 
-__What is a Personal User Manual?__ It is a guide to help you understand me, with the goal of working better together.  
+__What is a Personal User Manual?__ It is a guide to help you understand me to work better together.
 - Read more about [Personal User Manual](https://medium.com/better-programming/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) on Medium.
 - If you like this concept and create your personal user manual, please share it with me. To get started, I have a template linked at the bottom of this page. 
 
@@ -8,28 +8,27 @@ __What is a Personal User Manual?__ It is a guide to help you understand me, wit
 DISC: _SCI Steadiness Conscientiousness Influence_   
 Strengthfinder Themes: _Relator | Arranger | Input | Learner | Responsibility_
 
-- Originally born and raised in Kuala Lumpur, Malaysia, I've been living in St. Louis for 20+ years and received my US Citizenship 5 years ago. 
-- I'm on ESRI's - Professional Services - Midwest Regional Office, managing engagements & projects. Managing complex variables and organizing to simplify is my [Ordinary Superpowers](https://www.asuperpoweredlife.com/).  
-- Fav podcasts: Marketplace with Kai Ryssdal, How I Built This with Guy Raz, Planet Money, and multitudes of National Public Radio (NPR) programming.  
-- Lately, I am exploring businesses that embraces [Stakeholder Capitalism](https://www.instituteforcorporatetransformation.com/podcast)
+- Born and raised in Kuala Lumpur, Malaysia, currently living in St. Louis, and received my US Citizenship 5 years ago. 
+- Professional Services - Midwest Regional Office. Current roles: Tech Consulting Coordinator, Project Manager  
+- Fav podcasts: Marketplace with Kai Ryssdal, How I Built This with Guy Raz, Planet Money, Mapscaping with Daniel O'Donahue
+- Lately, I am exploring [Stakeholder Capitalism](https://www.instituteforcorporatetransformation.com/podcast)
 
 ### How to get ahold of me and my time
-- MS Teams works for quick answers, and email for detailed responses  
-- To reach me outside of core office hour, text my mobile 314-482-6693
-- Core working hours are 9am-6pm central time. Generally easier got me to work later than to start earlier 
+- MS Teams for quick answers  
+- Outside of core office hour, text my mobile 314-482-6693
+- Core working hours are 9am-6pm central time. 
 - You can schedule over any "tentative" meetings on my calendar
 
 ### Preferred Working Style
 - Like transparency and stay well informed 
-- Prefer pairing or small team collaboration rather than large meetings. 
-- Tend to listen first to gather information, before responding. If I am quiet and staring into space, I am not ignoring you. I am merely thinking before responding. 
-- If group concensus is lacking, I will generally make a decision to move us forward. If you think a different decision is needed, I will not be offended if you bring it up.
-- Visual communicator, and am bias towards diagrams, workflows, and screen sharing during meetings. 
-- My self-improvement goals: speaking up in larger group settings, and getting over the fear of being judged.
+- Prefer small team collaboration to large meetings. 
+- Tend to listen first to gather information, before responding  
+- Visual communicator, and am bias towards diagrams, workflows, and screen sharing during meetings   
+- If group concensus is lacking, I will make decision in order to move forward. If a different decision is needed, I will not be offended if you bring it up  
 
 ## What Motivates Me
 - I like to know how a decision is made and by whom. 
-- Constructive feedback. I promise to thank you for your feedback and not react in a self-defensive mannter. I will sometimes ask for details so I understand the context for which the feedback applies to.
+- Constructive feedback. I promise to thank you for your feedback and not react in a self-defensive mannter. 
 - Frequent recognition of small contribution helps keep me going.
 - Opportunities to learn new things. I consciously fight career complacency. 
 - Standardizing repeatable processes. 
@@ -37,7 +36,7 @@ Strengthfinder Themes: _Relator | Arranger | Input | Learner | Responsibility_
 ## What Demotivates Me
 - Lack of autonomy to operate and make day-to-day decisions.
 - Saying one thing and doing another. 
-- Lack of planning on your part does not constitute to emergency on my part, but if you need help, asking politely and I will be happy to collaborate.
+- Lack of planning on your part does not constitute to emergency on my part.
 
 ## My Values (and what I value in others)
 - Empathy and the ability to see another point-of-view
@@ -46,7 +45,7 @@ Strengthfinder Themes: _Relator | Arranger | Input | Learner | Responsibility_
 
 ## My Blind Spots
 - Taking over without meaning to. 
-- My dry sense of humor can feel snarky. You can say to me "that sounded snarky or disrespectful" and I will know I crossed the line. 
+- My dry sense of humor can feel snarky.
 - I come across blunt when I am laser-focused on problem-solving. You can say to me "I don't think that's your intent but it hurts my feeling". 
 
 ## My Pet Peeves

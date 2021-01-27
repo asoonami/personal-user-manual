@@ -51,7 +51,7 @@ Strengthfinder Themes: _Relator | Arranger | Input | Learner | Responsibility_
 ## My Pet Peeves
 - Invites for early AM meeting tomorrow sent after COB today.
 - Be blindsided in front of coworkers and making me look dumb.
-- Using "Americana 401" sayings. I didn't grow up here so I don't always get the references. 
+- Using "Americana 401" sayings. I didn't grow up in the states and don't always get the references. 
 
 #### Acknowledgement:  
 This template is courtesy of Camin McCluskey's [Personal User Manual Template](https://github.com/camin-mccluskey/Personal-User-Manual-Template)

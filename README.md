@@ -8,16 +8,16 @@ __What is a Personal User Manual?__ It is a guide to help you understand me, wit
 DISC: _SCI Steadiness Conscientiousness Influence_   
 Strengthfinder Themes: _Relator | Arranger | Input | Learner | Responsibility_
 
-- Originally born and raised in Kuala Lumpur, Malaysia, I've been living in St. Louis suburbs for 20+ years. 
+- Originally born and raised in Kuala Lumpur, Malaysia, I've been living in St. Louis for 20+ years and received my US Citizenship 5 years ago. 
 - I'm on ESRI's - Professional Services - Midwest Regional Office, managing engagements & projects. Managing complex variables and organizing to simplify is my [Ordinary Superpowers](https://www.asuperpoweredlife.com/).  
 - Fav podcasts: Marketplace with Kai Ryssdal, How I Built This with Guy Raz, Planet Money, and multitudes of National Public Radio (NPR) programming.  
 - Lately, I am exploring businesses that embraces [Stakeholder Capitalism](https://www.instituteforcorporatetransformation.com/podcast)
 
-### How to Contact Me
+### How to get ahold of me and my time
 - MS Teams works for quick answers, and email for detailed responses  
-- I like to have background and context, so please @mention me in channel, email chain, and especially Salesforce/Kimble Chatter
 - To reach me outside of core office hour, text my mobile 314-482-6693
-- Core working hours are 9am-6pm central time. Generally easier to work later than to start earlier 
+- Core working hours are 9am-6pm central time. Generally easier got me to work later than to start earlier 
+- You can schedule over any "tentative" meetings on my calendar
 
 ### Preferred Working Style
 - Like transparency and stay well informed 
@@ -25,7 +25,7 @@ Strengthfinder Themes: _Relator | Arranger | Input | Learner | Responsibility_
 - Tend to listen first to gather information, before responding. If I am quiet and staring into space, I am not ignoring you. I am merely thinking before responding. 
 - If group concensus is lacking, I will generally make a decision to move us forward. If you think a different decision is needed, I will not be offended if you bring it up.
 - Visual communicator, and am bias towards diagrams, workflows, and screen sharing during meetings. 
-- Self-improvement: speaking up in larger group settings, and getting over the fear of being judged.
+- My self-improvement goals: speaking up in larger group settings, and getting over the fear of being judged.
 
 ## What Motivates Me
 - I like to know how a decision is made and by whom. 

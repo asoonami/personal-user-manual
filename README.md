@@ -25,30 +25,30 @@ Strengthfinder Themes: _Relator | Arranger | Input | Learner | Responsibility_
 - Tend to listen first to gather information, before responding  
 - Visual communicator, and am bias towards diagrams, workflows, and screen sharing during meetings   
 
-## My Blind Spots
+### My Blind Spots
 - Saying yes to too many things
 - Taking over without meaning to 
 - My dry sense of humor can feel snarky
 - I come across blunt sometimes
 
-## What Motivates Me
+### What Motivates Me
 - I like to know how a decision is made and by whom. 
 - Constructive feedback. I promise to thank you for your feedback and not react in a self-defensive mannter. 
 - Frequent recognition of small contribution helps keep me going.
 - Opportunities to learn new things. I consciously fight career complacency. 
 - Standardizing repeatable processes. 
 
-## What Demotivates Me
+### What Demotivates Me
 - Lack of autonomy to operate and make day-to-day decisions.
 - Saying one thing and doing another. 
 - Lack of planning on your part does not constitute to emergency on my part
 
-## My Values (and what I value in others)
+### My Values (and what I value in others)
 - Empathy and the ability to see another point-of-view
 - Growth mindset, and room to make mistakes and learnings that come with that
 - Helping others help themselves 
 
-## My Pet Peeves
+### My Pet Peeves
 - Invites for early AM meeting tomorrow sent after COB today.
 - Be blindsided in front of coworkers and making me look dumb.
 - Using "Americana 401" sayings. I didn't grow up in the states and don't always get the references. 

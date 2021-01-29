@@ -8,7 +8,7 @@ __What is a Personal User Manual?__ It is a guide to help you understand me to w
 DISC: _SCI Steadiness Conscientiousness Influence_   
 Strengthfinder Themes: _Relator | Arranger | Input | Learner | Responsibility_
 
-- Born and raised in Kuala Lumpur, Malaysia, currently living in St. Louis, and received my US Citizenship 5 years ago. 
+- Born and raised in Kuala Lumpur, Malaysia, currently living in St. Louis. Received my US Citizenship 5 years ago. 
 - Professional Services - Midwest Regional Office. Current roles: Tech Consulting Coordinator, Project Manager  
 - Fav podcasts: Marketplace with Kai Ryssdal, How I Built This with Guy Raz, Planet Money, Mapscaping with Daniel O'Donahue
 - Lately, I am exploring [Stakeholder Capitalism](https://www.instituteforcorporatetransformation.com/podcast)

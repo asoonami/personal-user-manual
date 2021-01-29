@@ -36,7 +36,7 @@ Strengthfinder Themes: _Relator | Arranger | Input | Learner | Responsibility_
 ## What Demotivates Me
 - Lack of autonomy to operate and make day-to-day decisions.
 - Saying one thing and doing another. 
-- Lack of planning on your part does not constitute to emergency on my part.
+- Lack of planning on your part does not constitute to emergency on my part
 
 ## My Values (and what I value in others)
 - Empathy and the ability to see another point-of-view
@@ -44,9 +44,10 @@ Strengthfinder Themes: _Relator | Arranger | Input | Learner | Responsibility_
 - Helping others help themselves 
 
 ## My Blind Spots
-- Taking over without meaning to. 
-- My dry sense of humor can feel snarky.
-- I come across blunt when I am laser-focused on problem-solving. You can say to me "I don't think that's your intent but it hurts my feeling". 
+- Saying yes to too many things
+- Taking over without meaning to 
+- My dry sense of humor can feel snarky
+- I come across blunt sometimes
 
 ## My Pet Peeves
 - Invites for early AM meeting tomorrow sent after COB today.

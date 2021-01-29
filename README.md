@@ -24,7 +24,12 @@ Strengthfinder Themes: _Relator | Arranger | Input | Learner | Responsibility_
 - Prefer small team collaboration to large meetings. 
 - Tend to listen first to gather information, before responding  
 - Visual communicator, and am bias towards diagrams, workflows, and screen sharing during meetings   
-- If group concensus is lacking, I will make decision in order to move forward. If a different decision is needed, I will not be offended if you bring it up  
+
+## My Blind Spots
+- Saying yes to too many things
+- Taking over without meaning to 
+- My dry sense of humor can feel snarky
+- I come across blunt sometimes
 
 ## What Motivates Me
 - I like to know how a decision is made and by whom. 
@@ -42,12 +47,6 @@ Strengthfinder Themes: _Relator | Arranger | Input | Learner | Responsibility_
 - Empathy and the ability to see another point-of-view
 - Growth mindset, and room to make mistakes and learnings that come with that
 - Helping others help themselves 
-
-## My Blind Spots
-- Saying yes to too many things
-- Taking over without meaning to 
-- My dry sense of humor can feel snarky
-- I come across blunt sometimes
 
 ## My Pet Peeves
 - Invites for early AM meeting tomorrow sent after COB today.
